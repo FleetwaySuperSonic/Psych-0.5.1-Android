@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="negao.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dad Sing Note DOWN0000" x="0" y="0" width="438" height="750" frameX="-8" frameY="-41" frameWidth="453" frameHeight="791"/>
+	<SubTexture name="Dad Sing Note DOWN0001" x="483" y="0" width="438" height="776" frameX="-8" frameY="-15" frameWidth="453" frameHeight="791"/>
+	<SubTexture name="Dad idle dance0001" x="3951" y="0" width="575" height="812" frameX="0" frameY="-28" frameWidth="576" frameHeight="840"/>
+	<SubTexture name="Dad idle dance0002" x="4571" y="0" width="570" height="814" frameX="-6" frameY="-26" frameWidth="576" frameHeight="840"/>
+	<SubTexture name="Dad idle dance0005" x="5186" y="0" width="561" height="826" frameX="-10" frameY="-14" frameWidth="576" frameHeight="840"/>
+	<SubTexture name="Dad idle dance0006" x="5792" y="0" width="565" height="837" frameX="-6" frameY="-2" frameWidth="576" frameHeight="840"/>
+	<SubTexture name="Dad idle dance0009" x="6402" y="0" width="572" height="838" frameX="-1" frameY="0" frameWidth="576" frameHeight="840"/>
+	<SubTexture name="Dad Sing Note LEFT0000" x="7019" y="0" width="666" height="772" frameX="-7" frameY="-25" frameWidth="673" frameHeight="798"/>
+	<SubTexture name="Dad Sing Note LEFT0001" x="0" y="883" width="665" height="797" frameX="-6" frameY="0" frameWidth="673" frameHeight="798"/>
+	<SubTexture name="Dad Sing Note RIGHT0000" x="5000" y="883" width="520" height="799" frameX="0" frameY="-19" frameWidth="523" frameHeight="818"/>
+	<SubTexture name="Dad Sing Note RIGHT0001" x="5565" y="883" width="510" height="815" frameX="-11" frameY="0" frameWidth="523" frameHeight="818"/>
+	<SubTexture name="Dad Sing Note UP0000" x="552" y="1743" width="558" height="852" frameX="-2" frameY="-34" frameWidth="565" frameHeight="886"/>
+	<SubTexture name="Dad Sing Note UP0001" x="1155" y="1743" width="563" height="871" frameX="0" frameY="-15" frameWidth="565" frameHeight="886"/>
+</TextureAtlas>
