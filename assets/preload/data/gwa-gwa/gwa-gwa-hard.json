@@ -1,0 +1,250 @@
+{
+	"song": {
+		"player1": "bf",
+		"player2": "gwagwa",
+		"events": [],
+		"notes": [
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						50,
+						0,
+						0
+					],
+					[
+						50,
+						1,
+						0
+					],
+					[
+						50,
+						2,
+						0
+					],
+					[
+						50,
+						3,
+						0
+					],
+					[
+						250,
+						0,
+						0
+					],
+					[
+						250,
+						1,
+						0
+					],
+					[
+						250,
+						2,
+						0
+					],
+					[
+						300,
+						1,
+						0
+					],
+					[
+						300,
+						0,
+						0
+					],
+					[
+						250,
+						3,
+						0
+					],
+					[
+						62.5,
+						2,
+						0
+					],
+					[
+						75,
+						3,
+						0
+					],
+					[
+						87.5,
+						3,
+						0
+					],
+					[
+						75,
+						0,
+						0
+					],
+					[
+						62.5,
+						0,
+						0
+					],
+					[
+						75,
+						1,
+						0
+					],
+					[
+						258.333333333333,
+						0,
+						0
+					],
+					[
+						266.666666666667,
+						0,
+						0
+					],
+					[
+						266.666666666667,
+						1,
+						0
+					],
+					[
+						275,
+						1,
+						0
+					],
+					[
+						283.333333333333,
+						2,
+						0
+					],
+					[
+						291.666666666667,
+						2,
+						0
+					],
+					[
+						283.333333333333,
+						0,
+						0
+					],
+					[
+						291.666666666667,
+						0,
+						0
+					],
+					[
+						266.666666666667,
+						3,
+						0
+					],
+					[
+						275,
+						3,
+						0
+					],
+					[
+						291.666666666667,
+						3,
+						0
+					],
+					[
+						300,
+						3,
+						0
+					],
+					[
+						258.333333333333,
+						2,
+						0
+					],
+					[
+						266.666666666667,
+						2,
+						0
+					],
+					[
+						241.666666666667,
+						0,
+						0
+					],
+					[
+						75,
+						2,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 339,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 339,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 100,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"gfVersion": "spooky",
+		"player3": null,
+		"splashSkin": "noteSplashes",
+		"song": "gwa-gwa",
+		"stage": "yard",
+		"validScore": true,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"speed": 3.5,
+		"bpm": 150
+	}
+}

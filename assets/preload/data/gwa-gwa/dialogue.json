@@ -1,0 +1,20 @@
+{
+	"dialogue": [
+		{
+			"sound": "furry",
+			"speed": 0.025,
+			"portrait": "gwa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "that's fucking it, im gonna sing a god damn hardest in hard of all hard time song hard and its gonna be that hard that youre gonna get aids"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "mhm lets see"
+		}
+	]
+}
