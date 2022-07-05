@@ -1,0 +1,25 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		160,
+		80
+	],
+	"no_antialiasing": false,
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "talk",
+			"idle_name": "talk0003"
+		}
+	],
+	"image": "balder_portrait"
+}
