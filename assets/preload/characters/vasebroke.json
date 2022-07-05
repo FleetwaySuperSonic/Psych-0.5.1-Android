@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-190
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-190
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "talk",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-190
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "talk",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-190
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "talk",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-190
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "talk",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/vase2",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "baldpieceofshit",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		-10,
+		120
+	],
+	"sing_duration": 1,
+	"scale": 1.3
+}

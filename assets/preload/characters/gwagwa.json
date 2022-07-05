@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-380
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gwa",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-138,
+				-380
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "gwa",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-392
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "gwa",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-368
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "gwa",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-162,
+				-380
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "gwa",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gwat",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "furby",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		135,
+		0
+	],
+	"camera_position": [
+		20,
+		280
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}
