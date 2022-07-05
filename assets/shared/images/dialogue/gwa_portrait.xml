@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gwa_portrait.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="talk0000" x="0" y="0" width="405" height="692"/>
+	<SubTexture name="talk0001" x="405" y="0" width="405" height="404" frameX="0" frameY="-187" frameWidth="405" frameHeight="692"/>
+	<SubTexture name="talk0002" x="810" y="0" width="405" height="371" frameX="0" frameY="-213" frameWidth="405" frameHeight="692"/>
+	<SubTexture name="talk0003" x="1215" y="0" width="405" height="375" frameX="0" frameY="-205" frameWidth="405" frameHeight="692"/>
+	<SubTexture name="talk0004" x="1620" y="0" width="396" height="373" frameX="-4" frameY="-205" frameWidth="405" frameHeight="692"/>
+</TextureAtlas>

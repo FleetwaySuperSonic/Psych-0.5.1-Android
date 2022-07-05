@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jack_portrait.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="talk0000" x="0" y="0" width="390" height="405" frameX="0" frameY="-16" frameWidth="390" frameHeight="421"/>
+	<SubTexture name="talk0001" x="390" y="0" width="390" height="238" frameX="0" frameY="-183" frameWidth="390" frameHeight="421"/>
+	<SubTexture name="talk0002" x="0" y="405" width="390" height="421"/>
+</TextureAtlas>
