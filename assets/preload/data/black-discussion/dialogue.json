@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "papu",
+			"speed": 0.05,
+			"portrait": "jack",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey dicknose "
+		},
+		{
+			"sound": "badi",
+			"speed": 0.05,
+			"portrait": "balder",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "YEAH WASUP CUTIE *flushed*"
+		},
+		{
+			"sound": "papu",
+			"speed": 0.05,
+			"portrait": "jack",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lets fuckin rap you fucking dick"
+		},
+		{
+			"sound": "badi",
+			"speed": 0.05,
+			"portrait": "balder",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "OK"
+		},
+		{
+			"sound": "papu",
+			"speed": 0.03,
+			"portrait": "jack",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "skip this godamn dialogue and start the fuckin song then "
+		}
+	]
+}
