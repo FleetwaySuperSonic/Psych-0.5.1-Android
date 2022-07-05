@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "badi",
+			"speed": 0.05,
+			"portrait": "balder",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "HI, AND WELCUM TO MY HOUSESCHOOL!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "where the hell am i?"
+		},
+		{
+			"sound": "badi",
+			"speed": 0.05,
+			"portrait": "balder",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "LETS RAP!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "ok(?"
+		}
+	]
+}
