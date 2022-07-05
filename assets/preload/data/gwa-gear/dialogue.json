@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "furry",
+			"speed": 0.05,
+			"portrait": "gwa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "GWA GWA"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bro what"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "youre literally a cat"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "how did you said gwa gwa??"
+		},
+		{
+			"sound": "furry",
+			"speed": 0.05,
+			"portrait": "gwa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i don't know"
+		},
+		{
+			"sound": "",
+			"speed": 0.08,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "a"
+		},
+		{
+			"sound": "furry",
+			"speed": 0.05,
+			"portrait": "gwa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "anyways lets rap"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Mmm"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		}
+	]
+}
