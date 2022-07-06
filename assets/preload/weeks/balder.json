@@ -1,0 +1,26 @@
+{
+	"storyName": "balder",
+	"difficulties": "Hard, Easy",
+	"hideFreeplay": false,
+	"weekBackground": "learn",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"balder",
+			"baldpieceofshit",
+			[
+				75,
+				215,
+				75
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "balder"
+}
