@@ -58,18 +58,6 @@ class WeekData {
 			hideStoryMode: false,
 			hideFreeplay: false,
 			difficulties: ''
-			
-			songs: [["Negao", "negao", [146, 113, 253]], [146, 113, 253]]],
-			weekCharacters: ['dad', 'bf', 'gf'],
-			weekBackground: 'stage',
-			weekBefore: 'tutorial',
-			storyName: 'Your New Week',
-			weekName: 'Custom Week',
-			freeplayColor: [146, 113, 253],
-			startUnlocked: true,
-			hideStoryMode: true,
-			hideFreeplay: false,
-			difficulties: 'hard'
 		};
 		return weekFile;
 	}
